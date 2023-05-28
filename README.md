@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **AWS, Kubernetes, MySQL, Java**
 
-- 📫 How to reach me **divyanshuydav26680@gmail.com**
+- 📫 How to reach me **divyanshuyadav26680@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
