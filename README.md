@@ -16,13 +16,13 @@
 
 <h1 align="center">Hi 👋, I'm Divyanshu Yadav</h1>
 
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu262122&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu262122" /> </p>
 
-- 🌱 I’m currently learning **devops**
+- 🌱 I’m currently working on  **springboot**
 
-- 💬 Ask me about **AWS, Kubernetes, MySQL, Java**
+- 💬 Ask me about **Springboot, Java, MySQL, Hibernate**
 
 - 📫 How to reach me **divyanshuyadav26680@gmail.com**
 
